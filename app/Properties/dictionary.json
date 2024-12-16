@@ -1,0 +1,417 @@
+[
+  {
+    "English": "hello",
+    "Russian": "привет",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "apple",
+    "Russian": "яблоко",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "computer",
+    "Russian": "компьютер",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "house",
+    "Russian": "дом",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "chair",
+    "Russian": "стул",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "water",
+    "Russian": "вода",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "food",
+    "Russian": "еда",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "dog",
+    "Russian": "собака",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "cat",
+    "Russian": "кот",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "sun",
+    "Russian": "солнце",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "moon",
+    "Russian": "луна",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "tree",
+    "Russian": "дерево",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "flower",
+    "Russian": "цветок",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "river",
+    "Russian": "река",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "mountain",
+    "Russian": "гора",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "sky",
+    "Russian": "небо",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "star",
+    "Russian": "звезда",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "music",
+    "Russian": "музыка",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "phone",
+    "Russian": "телефон",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "window",
+    "Russian": "окно",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "door",
+    "Russian": "дверь",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "bread",
+    "Russian": "хлеб",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "milk",
+    "Russian": "молоко",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "coffee",
+    "Russian": "кофе",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "tea",
+    "Russian": "чай",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "bread",
+    "Russian": "хлеб",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "milk",
+    "Russian": "молоко",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "coffee",
+    "Russian": "кофе",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "tea",
+    "Russian": "чай",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "school",
+    "Russian": "школа",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "teacher",
+    "Russian": "учитель",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "student",
+    "Russian": "студент",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "language",
+    "Russian": "язык",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "idea",
+    "Russian": "идея",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "information",
+    "Russian": "информация",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "computer",
+    "Russian": "компьютер",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "internet",
+    "Russian": "интернет",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "keyboard",
+    "Russian": "клавиатура",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "mouse",
+    "Russian": "мышь",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "screen",
+    "Russian": "экран",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "software",
+    "Russian": "программное обеспечение",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "hardware",
+    "Russian": "аппаратное обеспечение",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "battery",
+    "Russian": "батарея",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "charger",
+    "Russian": "зарядное устройство",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "bookstore",
+    "Russian": "книжный магазин",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "library",
+    "Russian": "библиотека",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "station",
+    "Russian": "станция",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "bus",
+    "Russian": "автобус",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "train",
+    "Russian": "поезд",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "airport",
+    "Russian": "аэропорт",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "ticket",
+    "Russian": "билет",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "passport",
+    "Russian": "паспорт",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "hotel",
+    "Russian": "отель",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "reservation",
+    "Russian": "бронирование",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "breakfast",
+    "Russian": "завтрак",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "lunch",
+    "Russian": "обед",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "dinner",
+    "Russian": "ужин",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "restaurant",
+    "Russian": "ресторан",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "menu",
+    "Russian": "меню",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "bill",
+    "Russian": "счёт",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "waiter",
+    "Russian": "официант",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "waitress",
+    "Russian": "официантка",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "kitchen",
+    "Russian": "кухня",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "table",
+    "Russian": "стол",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "chair",
+    "Russian": "стул",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "plate",
+    "Russian": "тарелка",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "glass",
+    "Russian": "стакан",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "fork",
+    "Russian": "вилка",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "knife",
+    "Russian": "нож",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "spoon",
+    "Russian": "ложка",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "cup",
+    "Russian": "чашка",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "bottle",
+    "Russian": "бутылка",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "salt",
+    "Russian": "соль",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "pepper",
+    "Russian": "перец",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "sugar",
+    "Russian": "сахар",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "oil",
+    "Russian": "масло",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "butter",
+    "Russian": "сливочное масло",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "bread",
+    "Russian": "хлеб",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "cheese",
+    "Russian": "сыр",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "milk",
+    "Russian": "молоко",
+    "MemoryLevel": 1
+  },
+  {
+    "English": "sigma",
+    "Russian": "сигма",
+    "MemoryLevel": 3
+  },
+  {
+    "English": "rizz",
+    "Russian": "харизма",
+    "MemoryLevel": 2
+  },
+  {
+    "English": "bed",
+    "Russian": "кровать",
+    "MemoryLevel": 2
+  }
+]
